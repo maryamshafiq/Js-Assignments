@@ -1,0 +1,23 @@
+th {
+  padding-right: 20px;
+}
+
+.delt-btn {
+  display: block;
+}
+
+.counter {
+  padding-top: 50px;
+}
+
+.counter #increase {
+  background-color: green;
+  padding: 20px;
+  color: #fff;
+}
+
+.counter #decrease {
+  background-color: red;
+  color: #fff;
+  padding: 20px;
+}
